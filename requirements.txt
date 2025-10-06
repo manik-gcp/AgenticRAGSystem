@@ -1,0 +1,6 @@
+langgraph
+azure-ai-inference
+pinecone-client
+mlflow
+pydantic
+openai
